@@ -1,4 +1,5 @@
 # Running Sum of 1d Array
+# Topics: Array, Prefix Sum, Weekly Contest 193
 # maintains a cumulative total as i iterate through an array
 # each position stores the sum of all elements up to that point
 

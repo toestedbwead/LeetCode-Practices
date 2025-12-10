@@ -1,4 +1,5 @@
 #  Richest Customer Wealth
+# Topics: Array, Prefix Sum, Weekly Contest 193
 # used nested loops and comparisons
 
 def maximumWealth():

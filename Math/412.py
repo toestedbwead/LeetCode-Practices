@@ -1,4 +1,5 @@
 # Fizz Buzz
+# Topics: Math, String, Simulation
 # uses modulo (%) to check if numbers are divisible
 # chains if/elif/else
 
